@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imad!
+# 👋 Hi, I'm Imad Uddin!
 
 🚀 A passionate **MERN Stack Developer** who loves building interactive, responsive, and scalable web applications.
 
